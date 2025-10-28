@@ -1,0 +1,12 @@
+{
+  "name": "lrm-faster-running",
+  "version": "0.1.0",
+  "title": "LRM Faster Running",
+  "author": "iOFFLINE",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Dynamically adjusts player movement speed with a configurable multiplier.",
+  "homepage": "https://mods.factorio.com/user/iOFFLINE",
+  "license": "MIT",
+  "thumbnail": "thumbnail.png"
+}
